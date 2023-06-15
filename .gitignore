@@ -1,0 +1,7 @@
+web_env/*
+.git
+.idea/*
+app.db
+**/__pycache__/
+migrations/*
+
